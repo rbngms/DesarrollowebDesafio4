@@ -385,7 +385,7 @@ img {
         "servicios servicios servicios"
         "pie pie pie";
     
-        grid-template-columns: 40% 40% 40% ;
+        grid-template-columns: 150px 150px 150px ;
         grid-template-rows: 100px 400px 450px ;
         grid-column-gap: 50px;
         grid-row-gap: 20px;
